@@ -1,0 +1,33 @@
+{
+    "all_features": [
+        " no_of_dependents",
+        " self_employed",
+        " income_annum",
+        " loan_amount",
+        " loan_term",
+        " cibil_score",
+        " commercial_assets_value",
+        " luxury_assets_value",
+        " bank_asset_value",
+        " loan_status"
+    ],
+    "original_numerical": [
+        " no_of_dependents",
+        " income_annum",
+        " loan_amount",
+        " loan_term",
+        " cibil_score",
+        " commercial_assets_value",
+        " luxury_assets_value",
+        " bank_asset_value"
+    ],
+    "original_categorical": [
+        " self_employed",
+        " loan_status"
+    ],
+    "target_column": " education",
+    "target_classes": [
+        " Graduate",
+        " Not Graduate"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "test_size": 0.2,
+    "random_state": 42,
+    "stratified": true,
+    "smote_applied": false,
+    "original_train_samples": 3415,
+    "balanced_train_samples": 3415,
+    "test_samples": 854,
+    "synthetic_samples_created": 0,
+    "train_class_distribution": {
+        "0": 1715,
+        "1": 1700
+    },
+    "test_class_distribution": {
+        "1": 425,
+        "0": 429
+    },
+    "original_imbalance_ratio": 1.0089411764705882,
+    "balanced_imbalance_ratio": 1.0088235294117647
+}
